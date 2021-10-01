@@ -1,0 +1,129 @@
+#desktop {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: #FFFFFF;
+}
+
+#header {
+    position: absolute;
+    width: 1182px;
+    height: 100px;
+    left: 130px;
+    top: 0px;
+    background: #5485A0;
+}
+
+.image {
+    position: absolute;
+    width: 252px;
+    height: 60px;
+    left: 30px;
+    top: 20px;
+    background: url(image.png);
+}
+
+#surname {
+    position: absolute;
+    width: 114px;
+    height: 16px;
+    left: 1008px;
+    top: 42px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+#content-1 {
+    position: absolute;
+    width: 280px;
+    height: 800px;
+    left: 130px;
+    top: 123px;
+    background: #B3A38B;
+}
+
+#content-2 {
+    position: absolute;
+    width: 580px;
+    height: 800px;
+    left: 430px;
+    top: 123px;
+    background: #C4C4C4;
+}
+
+#text-1 {
+    position: absolute;
+    width: 503px;
+    height: 34px;
+    left: 45px;
+    top: 48px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+
+#text-2 {
+    position: absolute;
+    width: 535px;
+    height: 49px;
+    left: 45px;
+    top: 104px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+}
+
+#content-3 {
+    position: absolute;
+    width: 280px;
+    height: 800px;
+    left: 1030px;
+    top: 123px;
+    background: #689333;
+}
+
+#footer {
+    position: absolute;
+    width: 1180px;
+    height: 75px;
+    left: 130px;
+    top: 949px;
+    background: #8854A0;
+}
+
+#text-3 {
+    position: absolute;
+    width: 495px;
+    height: 49px;
+    left: 28px;
+    top: 30px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+#text-4 {
+    position: absolute;
+    width: 495px;
+    height: 49px;
+    left: 730px;
+    top: 30px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
