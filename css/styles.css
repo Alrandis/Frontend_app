@@ -1,0 +1,139 @@
+.header {
+    position: absolute;
+    width: 1182px;
+    height: 100px;
+    left: 130px;
+    top: 0px;
+    background: #5485A0;
+}
+
+.header__image {
+    position: absolute;
+    width: 252px;
+    height: 60px;
+    left: 30px;
+    top: 20px;
+    background: url(image.png);
+}
+.text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.text__surname {
+    position: absolute;
+    width: 114px;
+    height: 16px;
+    left: 1008px;
+    top: 42px;
+}
+.content__block-left {
+    position: absolute;
+    width: 280px;
+    height: 800px;
+    left: 130px;
+    top: 123px;
+    background: #B3A38B;
+}
+
+.content__block-middle {
+    position: absolute;
+    width: 580px;
+    height: 800px;
+    left: 430px;
+    top: 123px;
+    background: #C4C4C4;
+}
+
+.title {
+    position: absolute;
+    width: 503px;
+    height: 34px;
+    left: 45px;
+    top: 48px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.content__block-middle-text {
+    position: absolute;
+    width: 535px;
+    height: 49px;
+    left: 45px;
+    top: 104px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+}
+
+.content__block-right {
+    position: absolute;
+    width: 280px;
+    height: 800px;
+    left: 1030px;
+    top: 123px;
+    background: #689333;
+}
+
+.footer {
+    position: absolute;
+    width: 1180px;
+    height: 75px;
+    left: 130px;
+    top: 949px;
+    background: #8854A0;
+}
+
+.footer__contact-list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: absolute;
+    width: 495px;
+    height: 49px;
+    left: 0px;
+    list-style-type: none;
+}
+.footer__contact-list-item {
+    margin-right: 10px;
+    padding-right: 10px;
+    border-right: 2px solid white;
+    height: 20px;
+}
+.footer__contact-list-item:last-child {
+    border-right: 0;
+}
+
+.footer__contact-list-link {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.text__copyright {
+    position: absolute;
+    width: 495px;
+    height: 49px;
+    left: 700px;
+    top: 30px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
